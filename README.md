@@ -45,10 +45,6 @@ To launch the web interface for classification:
 python gradio.ipynb
 ```
 
-## 📌 Example Prediction
-**Input Image:**
-![Sample Input](screenshots/sample_input.jpg)
-
 
 ## 🔗 Dependencies
 Ensure you have the following installed (listed in `requirements.txt`):
